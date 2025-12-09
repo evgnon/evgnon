@@ -11,12 +11,15 @@ I care deeply about performance, reliability, and building systems that behave c
 ## Resume  
 You can view or download my resume here:
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-critical?style=for-the-badge)<!-- open link in new tab (GitHub auto-handles PDF display) -->](Eve_Gagnon_Systems_Engineering.pdf)
+<a href="Eve_Gagnon_Systems_Engineering.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-PDF-critical?style=for-the-badge" alt="Resume"/>
+</a>
 
 > The resume above includes detailed metrics on system performance improvements, distributed systems work, and search infrastructure experience.
 
 If you'd prefer a direct link:  
-**[Download Resume](Eve_Gagnon_Systems_Engineering.pdf)**
+<a href="Eve_Gagnon_Systems_Engineering.pdf" target="_blank">Download Resume</a>
+
 
 ---
 
