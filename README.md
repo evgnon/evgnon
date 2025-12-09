@@ -1,9 +1,67 @@
-### Hi there 👋 I'm Eve Gagnon
+# Hi, I'm Eve 👋  
+Backend & Distributed Systems Engineer
 
-I am looking for a new grad position starting in May 2025. Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/evgnon/) or [email](mailto:emdgagnon@gmail.com)!
+I'm a software engineer focused on **scalable backend systems**, **search infrastructure**, and **end-to-end product development**.  
+I care deeply about performance, reliability, and building systems that behave correctly under real-world constraints.
 
-- 🔭 I’m a 4th year Computer Engineering student at Concordia University
-- 🌱 I’m currently learning about <b>Big Data</b> and <b>Machine Learning</b>
-- 💬 Ask me about <b>ReactJS, Python</b>
-- 📫 How to reach me: <b>evemdgagnon@gmail.com</b>
-- ⚡ Fun fact: <b>I want to learn everything...</b>
+---
+
+## 📄 Resume  
+You can view or download my resume here:
+
+[![Resume](https://img.shields.io/badge/Resume-PDF-critical?style=for-the-badge)](Eve_Gagnon_Systems_Engineering.pdf)
+
+> The resume above includes detailed metrics on system performance improvements, distributed systems work, and search infrastructure experience.
+
+If you'd prefer a direct link:  
+**[Download Resume](Eve_Gagnon_Systems_Engineering.pdf)**
+
+---
+
+## 🔧 Technical Focus Areas
+- **Backend Engineering:** FastAPI, Flask, Node.js, PostgreSQL, Redis  
+- **Distributed Systems:** UDP/TCP messaging, replication, fault tolerance  
+- **Search & Retrieval:** pgvector, embeddings, chunking strategies, RAG pipelines  
+- **Performance Engineering:** latency optimization, ingestion pipelines, benchmarking harnesses  
+- **Infrastructure:** Docker, Linux, CI/CD, Azure, GCP  
+
+---
+
+## 🌟 Featured Projects
+
+### 🔍 AI Document Intelligence Platform  
+**FastAPI · Postgres/pgvector · React · OpenAI**  
+An end-to-end RAG system designed for low-latency semantic search and grounded LLM answers.
+
+- Built a scalable embedding + retrieval pipeline supporting **30k–50k embeddings**  
+- Achieved **<50ms vector search latency** (pgvector)  
+- Implemented ingestion throughput of **5–10 docs/sec** with batching  
+- Developed a **benchmarking harness** for testing 10+ chunking and retrieval strategies  
+- Designed heuristics (heading-aware segmentation, locality scoring, RR fusion) that improve semantic relevance  
+
+🔗 *Repo private — available upon request.*
+
+---
+
+### ⚡ Distributed Peer-to-Peer Auction System  
+**Python · UDP/TCP**  
+A fault-tolerant distributed bidding system demonstrating correctness under unreliable transport.
+
+- Combined UDP for low-latency bid propagation and TCP for reliable replication  
+- Supported **concurrent bidders** with delivery guarantees  
+- Reduced bid propagation latency by **30%**  
+- Implemented replay-safe messaging, consistency checks, and recovery mechanisms  
+
+🔗 *Repo private — available upon request.*
+
+---
+
+## 📬 Get in Touch  
+- **LinkedIn:** https://linkedin.com/in/evgnon  
+- **Email:** emdgagnon@gmail.com  
+- **GitHub:** https://github.com/evgnon
+
+---
+
+### ⭐ Thanks for visiting!  
+I'm always open to opportunities in backend engineering, distributed systems, AI infrastructure, and high-impact product development.
