@@ -4,12 +4,14 @@ Backend & Distributed Systems Engineer
 I'm a software engineer focused on **scalable backend systems**, **search infrastructure**, and **end-to-end product development**.  
 I care deeply about performance, reliability, and building systems that behave correctly under real-world constraints.
 
+**Core Interests:** distributed systems, low-latency retrieval, search infrastructure, data pipelines, performance engineering.
+
 ---
 
-## 📄 Resume  
+## Resume  
 You can view or download my resume here:
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-critical?style=for-the-badge)](Eve_Gagnon_Systems_Engineering.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-critical?style=for-the-badge)<!-- open link in new tab (GitHub auto-handles PDF display) -->](Eve_Gagnon_Systems_Engineering.pdf)
 
 > The resume above includes detailed metrics on system performance improvements, distributed systems work, and search infrastructure experience.
 
@@ -18,7 +20,7 @@ If you'd prefer a direct link:
 
 ---
 
-## 🔧 Technical Focus Areas
+## Technical Focus Areas
 - **Backend Engineering:** FastAPI, Flask, Node.js, PostgreSQL, Redis  
 - **Distributed Systems:** UDP/TCP messaging, replication, fault tolerance  
 - **Search & Retrieval:** pgvector, embeddings, chunking strategies, RAG pipelines  
@@ -27,9 +29,9 @@ If you'd prefer a direct link:
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🔍 AI Document Intelligence Platform  
+### AI Document Intelligence Platform  
 **FastAPI · Postgres/pgvector · React · OpenAI**  
 An end-to-end RAG system designed for low-latency semantic search and grounded LLM answers.
 
@@ -39,11 +41,12 @@ An end-to-end RAG system designed for low-latency semantic search and grounded L
 - Developed a **benchmarking harness** for testing 10+ chunking and retrieval strategies  
 - Designed heuristics (heading-aware segmentation, locality scoring, RR fusion) that improve semantic relevance  
 
-🔗 *Repo private — available upon request.*
+ [Repository Private](#) — available upon request.
+
 
 ---
 
-### ⚡ Distributed Peer-to-Peer Auction System  
+### Distributed Peer-to-Peer Auction System  
 **Python · UDP/TCP**  
 A fault-tolerant distributed bidding system demonstrating correctness under unreliable transport.
 
@@ -52,16 +55,18 @@ A fault-tolerant distributed bidding system demonstrating correctness under unre
 - Reduced bid propagation latency by **30%**  
 - Implemented replay-safe messaging, consistency checks, and recovery mechanisms  
 
-🔗 *Repo private — available upon request.*
+[Repository Private](#) — available upon request.
+
 
 ---
 
-## 📬 Get in Touch  
-- **LinkedIn:** https://linkedin.com/in/evgnon  
+## Get in Touch  
 - **Email:** emdgagnon@gmail.com  
-- **GitHub:** https://github.com/evgnon
+- **LinkedIn:** https://linkedin.com/in/evgnon  
+- **GitHub:** https://github.com/evgnon  
+
 
 ---
 
-### ⭐ Thanks for visiting!  
+### Thanks for visiting!  
 I'm always open to opportunities in backend engineering, distributed systems, AI infrastructure, and high-impact product development.
